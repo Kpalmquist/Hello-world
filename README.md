@@ -1,5 +1,6 @@
 # Hello-world
 Contains various ideas and projects.
+
 Hello everyone
 
 Kim Palmquist, prior military. I enjoy sipping on tea, reading books, working out, and shooting firearms.
